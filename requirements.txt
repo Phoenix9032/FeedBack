@@ -1,3 +1,4 @@
-torch>=1.8.1
+torch>=2.10.0
 transformer>=4.16.2
 optuna
+wheel>=0.46.2 # not directly required, pinned by Snyk to avoid a vulnerability
