@@ -1,3 +1,4 @@
 torch>=1.8.1
 transformer>=4.16.2
 optuna
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
